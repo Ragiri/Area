@@ -713,6 +713,5 @@ $ npm start
 * **Angelina Colas** _alias_ [@Ragiri](https://github.com/Ragiri) [Front-End / Mobile]
 * **Leonard Pooch** _alias_ [@Maaown](https://github.com/Maaown) [Back-End]
 * **Adrian Morvan** _alias_ [@Tsunuky](https://github.com/Tsunuky) [Back-End / Services]
-* **Théo Blancquart** _alias_ [@Ninmesis](https://github.com/Ninmesis) [Back-End / Services
 
 
